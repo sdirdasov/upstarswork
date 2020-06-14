@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">UpstartsWork</string>
+    <string name="app_name">Джинсы</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="empty_list">No goods found!</string>
+    <string name="content_description">Открыть товар</string>
+    <string name="content_description_favour">Добавить товар в избранное</string>
 </resources>
